@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Formatar Texto</string>
+    <string name="texto">Texto</string>
+    <string name="tamanhoLetra">Tamanho da Letra</string>
+    <string name="estilo">Estilo</string>
+    <string name="negrito">Negrito</string>
+    <string name="italico">Itálico</string>
+    <string name="maiusculo">Maiúsculo</string>
+    <string name="corLetra">Cor da Letra</string>
+    <string name="azul">Azul</string>
+    <string name="vermelho">Vermelho</string>
+    <string name="verde">Verde</string>
+
+</resources>
